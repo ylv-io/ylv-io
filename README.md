@@ -1,8 +1,6 @@
 I 👨‍💻 things on Ethereum & ❤️ DeFi.
-Cofounder at 
-@BabylonFinance.
-Previously at 
-@OpenZeppelin.
+Smart Contract Engineer at @BalancerLabs.
+Previously at @BabylonFinance, @OpenZeppelin.
 
 <!---
 ylv-io/ylv-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
